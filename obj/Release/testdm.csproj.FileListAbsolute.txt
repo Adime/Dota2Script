@@ -1,0 +1,54 @@
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\testdm.Form1.resources
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\testdm.form2.resources
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\testdm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\testdm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\国家级别项目\大漠C#免注册调用VS2012调试不退出版本\bin\Release\3r.exe.config
+C:\Users\Administrator\Desktop\国家级别项目\大漠C#免注册调用VS2012调试不退出版本\obj\Release\3r.exe
+C:\Users\Administrator\Desktop\国家级别项目\大漠C#免注册调用VS2012调试不退出版本\obj\Release\3r.pdb
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\testdm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\bin\Release\3r.exe.config
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\bin\Release\3r.exe.manifest
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\bin\Release\3r.application
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\bin\Release\3r.exe
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\bin\Release\3r.pdb
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\3r.exe.manifest
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\3r.application
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\3r.exe
+C:\Users\Administrator\Desktop\大漠C#免注册调用VS2012调试不退出版本\obj\Release\3r.pdb
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.exe.config
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.exe
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.pdb
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.exe.manifest
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.application
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.exe
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.pdb
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\testdm.csprojResolveAssemblyReference.cache
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\testdm.Form1.resources
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\testdm.form2.resources
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\testdm.Properties.Resources.resources
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\testdm.csproj.GenerateResource.Cache
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.exe.manifest
+F:\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.application
+F:\dotnet平台\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.exe.config
+F:\dotnet平台\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.exe
+F:\dotnet平台\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.pdb
+F:\dotnet platform\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\bin\Release\3r.exe.config
+F:\dotnet platform\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.exe
+F:\dotnet platform\DOTA2挂机脚本源代码(禁止用于传播和非法用途仅用于学习)\obj\Release\3r.pdb
+F:\My code\渣渣\挂机脚本\bin\Release\3r.exe.config
+F:\My code\渣渣\挂机脚本\obj\Release\3r.exe
+F:\My code\渣渣\挂机脚本\obj\Release\3r.pdb
+F:\My code\渣渣\挂机脚本\bin\Release\3r.exe.manifest
+F:\My code\渣渣\挂机脚本\bin\Release\3r.application
+F:\My code\渣渣\挂机脚本\bin\Release\3r.exe
+F:\My code\渣渣\挂机脚本\bin\Release\3r.pdb
+F:\My code\渣渣\挂机脚本\obj\Release\testdm.csprojResolveAssemblyReference.cache
+F:\My code\渣渣\挂机脚本\obj\Release\testdm.Form1.resources
+F:\My code\渣渣\挂机脚本\obj\Release\testdm.form2.resources
+F:\My code\渣渣\挂机脚本\obj\Release\testdm.Properties.Resources.resources
+F:\My code\渣渣\挂机脚本\obj\Release\testdm.csproj.GenerateResource.Cache
+F:\My code\渣渣\挂机脚本\obj\Release\3r.exe.manifest
+F:\My code\渣渣\挂机脚本\obj\Release\3r.application
+F:\My code\渣渣\dota2script\bin\Release\3r.exe.config
+F:\My code\渣渣\dota2script\obj\Release\3r.exe
+F:\My code\渣渣\dota2script\obj\Release\3r.pdb
